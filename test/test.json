@@ -1,0 +1,194 @@
+[{
+  "name": {
+    "first": "John",
+    "last": "Smith",
+    "middle": "",
+    "nickname": "",
+    "alias": ""
+  },
+  "address": [{
+    "s1": "",
+    "s2": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "country": ""
+  }],
+  "email": {
+    "secure": [
+      ""
+    ],
+    "personal": [
+      "jsmith@gmail.com"
+    ],
+    "work": [
+      "john.smith@example.com"
+    ],
+    "other": [
+      ""
+    ]
+  },
+  "phone": {
+    "mobile": [
+      ""
+    ],
+    "home": [
+      ""
+    ],
+    "work": [
+      ""
+    ],
+    "other": [
+      ""
+    ]
+  },
+  "networks": {
+    "bb": "",
+    "blog": "",
+    "fb": "",
+    "gh": "",
+    "gl": "",
+    "linkedin": "",
+    "other": "",
+    "site": "",
+    "twitter": ""
+  },
+  "encryption": {
+    "keys": [{
+      "pubkey": "",
+      "fp": ""
+    }]
+  },
+  "notes": [
+    ""
+  ]
+}, {
+  "name": {
+    "first": "Jack",
+    "last": "Johnson",
+    "middle": "",
+    "nickname": "",
+    "alias": ""
+  },
+  "address": [{
+    "s1": "",
+    "s2": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "country": ""
+  }],
+  "email": {
+    "secure": [
+      ""
+    ],
+    "personal": [
+      ""
+    ],
+    "work": [
+      ""
+    ],
+    "other": [
+      ""
+    ]
+  },
+  "phone": {
+    "mobile": [
+      "603-555-0015"
+    ],
+    "home": [
+      ""
+    ],
+    "work": [
+      ""
+    ],
+    "other": [
+      ""
+    ]
+  },
+  "networks": {
+    "bb": "",
+    "blog": "",
+    "fb": "",
+    "gh": "",
+    "gl": "",
+    "linkedin": "",
+    "other": "",
+    "site": "",
+    "twitter": ""
+  },
+  "encryption": {
+    "keys": [{
+      "pubkey": "",
+      "fp": ""
+    }]
+  },
+  "notes": [
+    ""
+  ]
+}, {
+  "name": {
+    "first": "Sally",
+    "last": "Harmony-Jones",
+    "middle": "Paulie",
+    "nickname": "",
+    "alias": ""
+  },
+  "address": [{
+    "s1": "",
+    "s2": "",
+    "city": "",
+    "state": "",
+    "zip": "",
+    "country": ""
+  }],
+  "email": {
+    "secure": [
+      ""
+    ],
+    "personal": [
+      "hquinn@aohell.com",
+      "sally.jones@gmail.com"
+    ],
+    "work": [
+      ""
+    ],
+    "other": [
+      ""
+    ]
+  },
+  "phone": {
+    "mobile": [
+      "617-555-1212"
+    ],
+    "home": [
+      ""
+    ],
+    "work": [
+      ""
+    ],
+    "other": [
+      ""
+    ]
+  },
+  "networks": {
+    "bb": "",
+    "blog": "",
+    "fb": "",
+    "gh": "",
+    "gl": "",
+    "linkedin": "",
+    "other": "",
+    "site": "",
+    "twitter": ""
+  },
+  "encryption": {
+    "keys": [{
+      "pubkey": "",
+      "fp": ""
+    }]
+  },
+  "notes": [
+    ""
+  ]
+}]
