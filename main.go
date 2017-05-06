@@ -20,7 +20,7 @@
 
 package main
 
-import "gitlab.com/mattyjones/contactManager/cmd"
+import "github.com/mattyjones/contactManager/cmd"
 
 func main() {
 	cmd.Execute()
